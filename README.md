@@ -17,7 +17,7 @@ A complete blog API system that enables external SEO platforms to publish conten
 Copy this prompt into your Lovable chat:
 
 ```
-Install the SEO Blog Connector from GitHub: https://github.com/YOUR-ORG/seo-blog-connector
+Install the SEO Blog Connector from GitHub: https://github.com/alllin1/seo
 
 This should:
 1. Run the database migrations to create blog_posts, webhook_credentials tables and blog-media storage bucket
